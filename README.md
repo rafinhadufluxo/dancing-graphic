@@ -36,7 +36,7 @@ npm install
 Onde instalará as biblitoecas que precisamos para compilar nosso projeto Dancing-graphi.
 
 
-### 4. Rodando o Projeto
+### 3. Rodando o Projeto
 
 Inicie o servidor e compile com o comando abaixo:
 
